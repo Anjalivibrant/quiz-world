@@ -28,6 +28,9 @@ body{
     text-transform: capitalize;
     font-family:'Montserrat' ;
     color: #1d1d1d;
+    background: linear-gradient(to right, #d3cce3, #e9e4f0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 
