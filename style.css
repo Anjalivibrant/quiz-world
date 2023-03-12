@@ -156,8 +156,9 @@ span label{
     cursor: pointer;
     transition: transform 0.3s;
     font-weight: 600;
+    font-size:13px;
     color: rgb(22, 22, 22);
-    padding: 4px;
+    padding: 8px;
 }
 
 /* span label:hover{
