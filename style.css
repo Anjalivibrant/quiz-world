@@ -22,7 +22,7 @@ body{
 
 .content h1{
     text-align: center;
-    font-size: 40px;
+    font-size: 37px;
     font-weight: 600;
     text-decoration:none;
     text-transform: capitalize;
@@ -42,6 +42,7 @@ body{
     text-transform: capitalize;
     font-family:'Montserrat';
     margin: 5px;
+    color: rgb(181, 209, 234);
     font-style: italic;
     text-decoration: underline;
 }
@@ -60,7 +61,6 @@ body{
     top: 0;
     height:90px;
     width: 100px;
-    border-radius: 50%;
 }
 
 .content .photo{

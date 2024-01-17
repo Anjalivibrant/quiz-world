@@ -55,14 +55,17 @@ body{
   font-size: 15px;
   font-weight: 200;
   text-transform: capitalize;
-  background: linear-gradient(to right, #000428, #004e92);
+  background: linear-gradient(to right, #a02ae4, #3999ed);
   border: none;
   margin: 15px;
   width: 5rem;
   cursor: pointer;
   border-radius: 1rem;
 }
-
+.btn :hover{
+  color: black;
+  cursor: pointer;
+}
 .btn a{
   color:#fff;
   font-size: 15px;
