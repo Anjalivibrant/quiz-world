@@ -1,5 +1,5 @@
 const questions = [
-    {
+    /*{
         question: "What is the collection of the hyperlinked document on the internet known as?",
         optionA: "HTML",
         optionB: "Email",
@@ -286,7 +286,7 @@ const questions = [
         optionC: "None of these",
         optionD: "4",
         correctOption: "optionD"
-    },
+    },*/
 ]
 
 
