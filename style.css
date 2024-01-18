@@ -349,5 +349,14 @@ input[type=radio]:checked ~ .option {
     to {opacity: 1;}
   }
 
-  
+  footer{
+    position: absolute;
+    bottom: 2px;
+    font-weight: lighter;
+    left: 4px;
+  display: flex;
+  align-items: end;
+  color: #000000;
+  font-family: 'Times New Roman', Times, serif;
+  }
   

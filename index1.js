@@ -453,3 +453,7 @@ function closeOptionModal() {
 window.onbeforeunload = function() {
     return "Data will be lost if you leave the page, are you sure?";
 };
+
+function goToFeedback(){
+    window.open("https://forms.gle/He5HssX6ewmiATn49","self");
+}
